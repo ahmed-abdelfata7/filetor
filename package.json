@@ -21,11 +21,18 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EngAhmedMahmoud/filetor.git"
+    "url": "https://github.com/EngAhmedMahmoud/filetor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EngAhmedMahmoud/filetor/issues",
+    "email": "ahmed.m.web.dev@gmail.com"
   },
   "author": "Ahmed Mahmoud",
   "license": "MIT",
   "dependencies": {
     "express-fileupload": "^1.2.1"
-  }
+  },
+  "private": false,
+  "homepage": "https://github.com/EngAhmedMahmoud/filetor"
+
 }
