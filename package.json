@@ -1,0 +1,27 @@
+{
+  "name": "filetor",
+  "version": "1.0.0",
+  "description": "Filetor used for uploading files in an easy way get form-data and multipart varaibles easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "upload",
+    "upload-files",
+    "file-upload",
+    "upload-file",
+    "files",
+    "file-upload",
+    "uploading",
+    "multipart",
+    "files",
+    "express-upload",
+    "filetor"
+  ],
+  "author": "Ahmed Mahmoud",
+  "license": "MIT",
+  "dependencies": {
+    "express-fileupload": "^1.2.1"
+  }
+}
