@@ -1,6 +1,6 @@
 {
   "name": "filetor",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Filetor used for uploading files in an easy way get form-data and multipart varaibles easy",
   "main": "index.js",
   "scripts": {
