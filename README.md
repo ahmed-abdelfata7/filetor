@@ -1,5 +1,9 @@
 # Filetor
 Simple npm package for uploading single and multiple files using nodejs.
+
+### [Example project](https://tech-hour.com/nodejs-filetor-uploading%20files)
+From this project you will be able to use filetor for uploading single and multiple files.
+
 # Installing
 ```bash
 npm i filetor
@@ -37,7 +41,7 @@ app.post("/register",async (req,res,next)=>{
 
 ```
 
-### Example: uploading single file
+### Example: uploading multiple files
 
 - You are selling your car online.
 - HTML form input `<input type="file" name="car[]" />`
@@ -51,3 +55,5 @@ app.post("/advertisment",async (req,res,next)=>{
 });
 
 ```
+### [Complete project example](https://tech-hour.com/nodejs-filetor-uploading%20files)
+
